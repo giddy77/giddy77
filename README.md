@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giddy77
-- 👀 I’m interested in CYBER SECURITY, DATABASE DEVELOPMENT AND MANTENANCE.
-- 🌱 I’m currently learning CYBER SECURITY AND NETWORKING
+- 👀 I’m interested in WEB DESIGN AND DEVELOPMENT, JAVASCRIPT SOFTWARE DEVELOPMENT AND DATABASEMANTENANCE.
+- 🌱 I’m currently learning WEB DEVELOPMENT AND NETWORKING
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me giddysipoi@gmail.com
 
